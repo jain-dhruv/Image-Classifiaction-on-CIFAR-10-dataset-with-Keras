@@ -20,3 +20,7 @@
 10. Truck		
 
 Classification done using CNN
+
+## Accuracy:
+Training Dataset: 0.9268</br>
+Test Dataset: 0.7794
